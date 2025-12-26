@@ -2,6 +2,10 @@
 
 Loan Default Prediction & Customer Risk Assessment
 
+<img width="2418" height="1315" alt="image" src="https://github.com/user-attachments/assets/2c765c58-cea9-4db9-ad22-e8c1bfffc23c" />
+
+
+
 📌 Overview
 
 This project is an end-to-end Credit Risk Modeling application that predicts a borrower’s loan default risk and overall creditworthiness using machine learning. It simulates how financial institutions evaluate applicants by combining predictive modeling with explainable insights, delivered through an interactive Streamlit web interface.
@@ -11,13 +15,9 @@ The system allows users to input borrower details such as age, income, loan amou
 🎯 Key Features
 
 * Real-time loan default prediction
-
 * Interactive Streamlit-based UI
-
 * Robust feature preprocessing and scaling
-
 * Production-style model inference using serialized ML models
-
 * Modular prediction logic for maintainability
 
 🧠 Architecture & Workflow
@@ -29,33 +29,25 @@ The system allows users to input borrower details such as age, income, loan amou
 2. Feature Preparation
 
 * Inputs are validated and transformed into model-ready format
-
 * Feature ordering and scaling handled consistently to match training pipeline
 
 3. Model Inference
 
 * Pre-trained ML model loaded using joblib
-
 * Prediction executed in real time
 
 4. Result Interpretation
 
 * Output displayed as default risk classification
-
 * Designed to integrate explainability layers (e.g., SHAP)
 
 🛠️ Tech Stack
 
 * Programming Language: Python
-
 * Frontend: Streamlit
-
 * Data Processing: Pandas, NumPy
-
 * Machine Learning: Scikit-learn
-
 * Model Persistence: Joblib
-
 * Development Environment: Jupyter Notebook
 
 📂 Project Structure
@@ -82,44 +74,35 @@ streamlit run main.py
 3️⃣ Use the App
 
 * Enter borrower details in the UI
-
 * Click Predict
-
 * View loan default risk instantly
 
 📈 Model Details
 
 * Supervised classification model trained on historical credit data
-
 * Designed to handle common financial risk factors
-
 * Can be extended with:
-
   - XGBoost / Random Forest
-
   - SHAP explainability
-
   - Probability calibration
 
 🔍 Key Learning Outcomes
 
 * Built a real-world ML inference pipeline
-
 * Demonstrated deployment-ready ML using Streamlit
-
 * Implemented modular, reusable prediction logic
-
 * Applied ML concepts to financial risk analytics
 
 🚀 Future Enhancements
 
 * Support probability scores instead of binary output
-
 * Integrate cloud deployment (AWS / GCP)
+* Add model versioning and monitoring
 
 👤 Author
 
 Lalith Kumar Dabilpuram
+
 Data Scientist | Machine Learning | Financial Analytics | GenAI Engineer
 
-Add model versioning and monitoring
+
