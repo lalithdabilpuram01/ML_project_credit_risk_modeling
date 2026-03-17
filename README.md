@@ -99,10 +99,11 @@ streamlit run main.py
 * Integrate cloud deployment (AWS / GCP)
 * Add model versioning and monitoring
 
-```md
-## 🌐 Live Demo
-👉 https://lalith-credit-risk-modeling.streamlit.app/
-```
+## 🔹 Project Links
+
+* **Live App:** [Streamlit Cloud Link](https://lalith-credit-risk-modeling.streamlit.app/)
+* **GitHub Repo:** [GitHub Repo Link](https://github.com/lalithdabilpuram01/ML_project_credit_risk_modeling/)
+
 👤 Author
 
 Lalith Kumar Dabilpuram
