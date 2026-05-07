@@ -8,7 +8,7 @@ Loan Default Prediction & Customer Risk Assessment
 
 Overview
 
-This project is an end-to-end Credit Risk Modeling application that predicts a borrower’s loan default risk and overall creditworthiness using machine learning. It simulates how financial institutions evaluate applicants by combining predictive modeling with explainable insights, delivered through an interactive Streamlit web interface.
+
 
 The system allows users to input borrower details such as age, income, loan amount, tenure, and credit history, and instantly receive a predicted risk outcome.
 
